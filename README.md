@@ -11,9 +11,6 @@ This project implements a barcode and QR code scanning system using digital imag
 #### Additional concepts used -
 1. - Bounding box
 2. - Decoding algorithms
-   
-#### Dataset - 
-- na
 
 #### Novelty - 
 1. - Dynamic Input Selection
